@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-29)
+## Unreleased (2025-03-30)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`fbce42c`](https://github.com/stdlib-js/stdlib/commit/fbce42c8ae4ce2a5517960942d70ce4eaef15c3e) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`3b732a6`](https://github.com/stdlib-js/stdlib/commit/3b732a600b364c267e28e6004baa8fb5e69d221f) - **feat:** add `stats/strided/dvariancepn` _(by Aayush Khanna)_
 
 </details>
